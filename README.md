@@ -8,17 +8,7 @@ Repository ini berisi kumpulan berbagai project Android yang pernah saya kerjaka
 
 Project-project ini dibuat sebagai media pembelajaran dan pengembangan skill Android Development, mulai dari dasar hingga implementasi fitur-fitur yang umum digunakan dalam aplikasi Android.
 
-### 🚀Tujuan Repository
 
-### 📚Mendokumentasikan proses belajar dan progres pengembangan skill
-
-### 🛠️Melatih implementasi Kotlin & Android SDK
-
-### 🔍Menjadi referensi dan bahan pembelajaran bagi developer lain
-
-### 💼Menjadi portfolio project Android
-
-### 🧠Materi & Fitur yang Dipelajari
 
 Beberapa topik yang diimplementasikan dalam project ini meliputi:
 
